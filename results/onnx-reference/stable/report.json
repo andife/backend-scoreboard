@@ -1,7 +1,8 @@
 {
-    "date": "08/04/2026 00:49:15",
+    "date": "08/05/2026 00:45:04",
     "failed": [
         "OnnxBackendNodeModelTest::test_bernoulli_cpu",
+        "OnnxBackendNodeModelTest::test_bernoulli_double_cpu",
         "OnnxBackendNodeModelTest::test_bernoulli_double_expanded_cpu",
         "OnnxBackendNodeModelTest::test_bernoulli_expanded_cpu",
         "OnnxBackendNodeModelTest::test_bernoulli_seed_cpu",
@@ -271,7 +272,6 @@
         "OnnxBackendNodeModelTest::test_batchnorm_epsilon_training_mode_cpu",
         "OnnxBackendNodeModelTest::test_batchnorm_example_cpu",
         "OnnxBackendNodeModelTest::test_batchnorm_example_training_mode_cpu",
-        "OnnxBackendNodeModelTest::test_bernoulli_double_cpu",
         "OnnxBackendNodeModelTest::test_bitcast_2d_float32_to_int32_cpu",
         "OnnxBackendNodeModelTest::test_bitcast_bool_to_uint8_cpu",
         "OnnxBackendNodeModelTest::test_bitcast_float32_to_int32_cpu",
