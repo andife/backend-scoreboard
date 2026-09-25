@@ -389,5 +389,22 @@
                 "version": "1.23.0"
             }
         ]
+    },
+    {
+        "date": "09/25/2026 00:48:58",
+        "failed": 1409,
+        "passed": 624,
+        "skipped": 0,
+        "total_ops": 205,
+        "versions": [
+            {
+                "name": "jaxonnxruntime",
+                "version": "0.3.0"
+            },
+            {
+                "name": "onnx",
+                "version": "1.23.0"
+            }
+        ]
     }
 ]
